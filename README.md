@@ -62,5 +62,6 @@ Date: February 28, 2026
 
 ## Acknowledgments
 
-Dataset source: Kaggle - Unlock Profits with E-Commerce Sales Data
-Datanomics-Tech for guidance and support
+  Dataset source: Kaggle - Unlock Profits with E-Commerce Sales Data
+  
+  Datanomics-Tech for guidance and support

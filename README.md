@@ -32,9 +32,9 @@ The dataset contains detailed information about:
 - Environment: Jupyter Notebook
 
 ### Libraries Used:
-- pandas
-- numpy
-- matplotlib
+  - pandas
+  - numpy
+  - matplotlib
   - seaborn
 
 ## Project Workflow

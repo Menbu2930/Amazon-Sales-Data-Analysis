@@ -2,11 +2,15 @@
 
 Project Summary
 
-    This project analyzes Amazon sales data to uncover meaningful insights into customer behavior, order trends, and operational patterns. The goal is to transform raw transactional data into actionable insights that support better business decisions.
+    This project analyzes Amazon sales data to uncover meaningful insights into customer behavior,
+    order trends, and operational patterns. The goal is to transform raw transactional data into 
+    actionable insights that support better business decisions.
 
-    This notebook demonstrates a complete data analysis workflow, including data cleaning, preprocessing, and exploratory data analysis (EDA).
+    This notebook demonstrates a complete data analysis workflow, including data cleaning, 
+    preprocessing, and exploratory data analysis (EDA).
 
 Objectives
+
     - Analyze overall sales performance and key metrics
     - Identify top-performing product categories and sizes
     - Examine geographic sales distribution across states and cities
@@ -37,12 +41,14 @@ Tools & Technologies
         - seaborn
 
 Project Workflow
+
     - Data Understanding
     - Data Cleaning & Preprocessing
     - Exploratory Data Analysis (EDA) using univariate, bivariate, multivariate and trend detections.
     - Key insights and recommendations  
 
 Team Members
+
         Daniel Yimer
         Hayat Ahmed
         Menebre W. Desalegn
@@ -53,8 +59,10 @@ Team Members
     Date: February 28, 2026
 
 License
+
     This project is for educational purposes as part of the Datanomics-Tech capstone program.
 
 Acknowledgments
+
     Dataset source: Kaggle - Unlock Profits with E-Commerce Sales Data
     Datanomics-Tech for guidance and support

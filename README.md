@@ -46,11 +46,15 @@ The dataset contains detailed information about:
 
 ## Team Members
 
-Daniel Yimer
-Hayat Ahmed
-Menebre W. Desalegn
-Solomon Kefale
-Yohannes Million
+  Daniel Yimer
+  
+  Hayat Ahmed
+  
+  Menebre W. Desalegn
+  
+  Solomon Kefale
+  
+  Yohannes Million
 
 Institution: Datanomics-Tech
 Date: February 28, 2026

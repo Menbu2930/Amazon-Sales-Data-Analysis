@@ -1,6 +1,6 @@
 # Amazon-Sales-Data-Analysis
 
-Project Summary
+## Project Summary
 
     This project analyzes Amazon sales data to uncover meaningful insights into customer behavior,
     order trends, and operational patterns. The goal is to transform raw transactional data into 
@@ -9,7 +9,7 @@ Project Summary
     This notebook demonstrates a complete data analysis workflow, including data cleaning, 
     preprocessing, and exploratory data analysis (EDA).
 
-Objectives
+## Objectives
 
     - Analyze overall sales performance and key metrics
     - Identify top-performing product categories and sizes
@@ -19,7 +19,7 @@ Objectives
     - Analyze the impact of promotions on sales
     - Provide actionable business recommendations
 
-Dataset Information
+## Dataset Information
 
     - Dataset: Amazon Sales Report
     - Source: Kaggle
@@ -29,25 +29,25 @@ Dataset Information
 
         - Orders and order status, Sales channels, Product categories and Shipping and courier details.
 
-Tools & Technologies
+## Tools & Technologies
 
     - Programming Language: Python
     - Environment: Jupyter Notebook
 
-    Libraries Used:
+### Libraries Used:
         - pandas
         - numpy
         - matplotlib
         - seaborn
 
-Project Workflow
+## Project Workflow
 
     - Data Understanding
     - Data Cleaning & Preprocessing
     - Exploratory Data Analysis (EDA) using univariate, bivariate, multivariate and trend detections.
     - Key insights and recommendations  
 
-Team Members
+## Team Members
 
         Daniel Yimer
         Hayat Ahmed
@@ -58,11 +58,7 @@ Team Members
     Institution: Datanomics-Tech
     Date: February 28, 2026
 
-License
-
-    This project is for educational purposes as part of the Datanomics-Tech capstone program.
-
-Acknowledgments
+## Acknowledgments
 
     Dataset source: Kaggle - Unlock Profits with E-Commerce Sales Data
     Datanomics-Tech for guidance and support

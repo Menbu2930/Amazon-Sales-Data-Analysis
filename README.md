@@ -44,24 +44,9 @@ The dataset contains detailed information about:
 - Exploratory Data Analysis (EDA) using univariate, bivariate, multivariate and trend detections.
 - Key insights and recommendations  
 
-## Team Members
-
-  Daniel Yimer
-  
-  Hayat Ahmed
-  
-  Menebre W. Desalegn
-  
-  Solomon Kefale
-  
-  Yohannes Million
-
-Institution: Datanomics-Tech
-
-Date: February 28, 2026
 
 ## Acknowledgments
 
   Dataset source: Kaggle - Unlock Profits with E-Commerce Sales Data
   
-  Datanomics-Tech for guidance and support
+  Datanomics-Tech institution for guidance and support.
